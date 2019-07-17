@@ -21,7 +21,8 @@
   "peerDependencies": {
     "prop-types": ">=15.5.10",
     "react": "*",
-    "react-native": "*"
+    "react-native": "*",
+    "css-to-react-native": "^2.3.1"
   },
   "devDependencies": {
     "babel-eslint": "8.2.2",
